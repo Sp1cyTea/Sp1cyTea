@@ -24,7 +24,6 @@ I want to conquer the whole world!
 
 University: Unfinished higher technical specialty
 Courses:
-* Yandex Praktikum «Front-end»(1/5)
 * RS Schools Course «JavaScript/Front-end»(1/5)
 
 ## English:
